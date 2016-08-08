@@ -7,8 +7,8 @@
  */
 
 
-var DOMEvent = require('dom-event');
-var utils = require('utils');
+var DOMEvent = require('dom-event.js');
+var utils = require('./utils');
 
 
 // ----------------------------------------------------------------------------
